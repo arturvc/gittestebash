@@ -5,5 +5,11 @@ Etapas usadas:
 1. Criar repositório no GitHub;
 2. Copiar a URL do *repo*;
 3. Digitar:
-> git clone URL
-4. 
+* git clone URL  
+> copia o repositório para a pasta local
+
+* git commit -a
+> atualiza o repositório e prepara para o *push*
+
+* git status
+> informa a situação do repos *repo*
